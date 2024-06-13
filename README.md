@@ -22,4 +22,5 @@ There are three folders, and five files in the root folder. We introduce each of
   - Appendix-C.pdf, contains the information about the average numbers of bugs of diffrent types detected by different approaches.
   - Appendix-D.pdf, contains the information about the overlap among the bugs detected by different approaches.
 
+- bugs: which contains code and optimizations that trigger previously-unknown bugs for the latest versions of GCC and LLVM.
 Thanks!
